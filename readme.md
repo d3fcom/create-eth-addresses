@@ -10,7 +10,7 @@ Relies on `web3-eth-accounts`
 
 `node index.js`
 
-The output will be 75 ethereum addresses and private keys.
+The output will be 1000 ethereum addresses and private keys.
 
 To save the output to a file, the easiest option is to pipe to scripts output to a file, e.g
 
